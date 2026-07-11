@@ -10,3 +10,4 @@
 | 8 | [Find All Numbers Disappeared in an Array](./LeetCode/Easy/Find%20All%20Numbers%20Disappeared%20in%20an%20Array) | [LeetCode](https://leetcode.com/problems/find-all-numbers-disappeared-in-an-array/) | Easy | 11 Jul 2026 | 10:58 am |
 | 9 | [Find the Duplicate Number](./LeetCode/Medium/Find%20the%20Duplicate%20Number) | [LeetCode](https://leetcode.com/problems/find-the-duplicate-number/) | Medium | 11 Jul 2026 | 11:09 am |
 | 10 | [Find All Duplicates in an Array](./LeetCode/Medium/Find%20All%20Duplicates%20in%20an%20Array) | [LeetCode](https://leetcode.com/problems/find-all-duplicates-in-an-array/) | Medium | 11 Jul 2026 | 11:15 am |
+| 11 | [Set Mismatch](./LeetCode/Easy/Set%20Mismatch) | [LeetCode](https://leetcode.com/problems/set-mismatch/) | Easy | 11 Jul 2026 | 11:31 am |
