@@ -8,3 +8,4 @@
 | 6 | [Maximum Product of Two Elements in an Array](./LeetCode/Easy/Maximum%20Product%20of%20Two%20Elements%20in%20an%20Array) | [LeetCode](https://leetcode.com/problems/maximum-product-of-two-elements-in-an-array/) | Easy | 10 Jul 2026 | 10:24 pm |
 | 7 | [Missing Number](./LeetCode/Easy/Missing%20Number) | [LeetCode](https://leetcode.com/problems/missing-number/) | Easy | 11 Jul 2026 | 10:44 am |
 | 8 | [Find All Numbers Disappeared in an Array](./LeetCode/Easy/Find%20All%20Numbers%20Disappeared%20in%20an%20Array) | [LeetCode](https://leetcode.com/problems/find-all-numbers-disappeared-in-an-array/) | Easy | 11 Jul 2026 | 10:58 am |
+| 9 | [Find the Duplicate Number](./LeetCode/Medium/Find%20the%20Duplicate%20Number) | [LeetCode](https://leetcode.com/problems/find-the-duplicate-number/) | Medium | 11 Jul 2026 | 11:09 am |
