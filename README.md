@@ -6,3 +6,4 @@
 | 4 | [Third Maximum Number](./LeetCode/Easy/Third%20Maximum%20Number) | [LeetCode](https://leetcode.com/problems/third-maximum-number/) | Easy | 10 Jul 2026 | 01:47 pm |
 | 5 | [Array Partition](./LeetCode/Easy/Array%20Partition) | [LeetCode](https://leetcode.com/problems/array-partition/) | Easy | 10 Jul 2026 | 09:36 pm |
 | 6 | [Maximum Product of Two Elements in an Array](./LeetCode/Easy/Maximum%20Product%20of%20Two%20Elements%20in%20an%20Array) | [LeetCode](https://leetcode.com/problems/maximum-product-of-two-elements-in-an-array/) | Easy | 10 Jul 2026 | 10:24 pm |
+| 7 | [Missing Number](./LeetCode/Easy/Missing%20Number) | [LeetCode](https://leetcode.com/problems/missing-number/) | Easy | 11 Jul 2026 | 10:44 am |
