@@ -1,12 +1,12 @@
 {
-  "totalSolved": 9,
+  "totalSolved": 10,
   "currentStreak": 3,
   "maxStreak": 3,
   "lastSyncDate": "2026-07-11",
-  "todayCount": 3,
+  "todayCount": 4,
   "difficultyCounts": {
     "easy": 7,
-    "medium": 2,
+    "medium": 3,
     "hard": 0,
     "basic": 0
   },
@@ -19,16 +19,18 @@
     "LeetCode_Maximum_Product_of_Two_Elements_in_an_Array": true,
     "LeetCode_Missing_Number": true,
     "LeetCode_Find_All_Numbers_Disappeared_in_an_Array": true,
-    "LeetCode_Find_the_Duplicate_Number": true
+    "LeetCode_Find_the_Duplicate_Number": true,
+    "LeetCode_Find_All_Duplicates_in_an_Array": true
   },
   "activityHistory": {
     "2026-07-09": 2,
     "2026-07-10": 4,
-    "2026-07-11": 3
+    "2026-07-11": 4
   },
   "todayProblems": [
     "Missing Number",
     "Find All Numbers Disappeared in an Array",
-    "Find the Duplicate Number"
+    "Find the Duplicate Number",
+    "Find All Duplicates in an Array"
   ]
 }
