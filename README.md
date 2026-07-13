@@ -12,3 +12,4 @@
 | 10 | [Find All Duplicates in an Array](./LeetCode/Medium/Find%20All%20Duplicates%20in%20an%20Array) | [LeetCode](https://leetcode.com/problems/find-all-duplicates-in-an-array/) | Medium | 11 Jul 2026 | 11:15 am |
 | 11 | [Set Mismatch](./LeetCode/Easy/Set%20Mismatch) | [LeetCode](https://leetcode.com/problems/set-mismatch/) | Easy | 11 Jul 2026 | 11:31 am |
 | 12 | [Defanging an IP Address](./LeetCode/Easy/Defanging%20an%20IP%20Address) | [LeetCode](https://leetcode.com/problems/defanging-an-ip-address/) | Easy | 13 Jul 2026 | 03:42 pm |
+| 13 | [Shuffle String](./LeetCode/Easy/Shuffle%20String) | [LeetCode](https://leetcode.com/problems/shuffle-string/) | Easy | 13 Jul 2026 | 03:56 pm |
