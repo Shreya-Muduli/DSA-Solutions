@@ -1,12 +1,12 @@
 {
-  "totalSolved": 13,
-  "currentStreak": 1,
+  "totalSolved": 14,
+  "currentStreak": 2,
   "maxStreak": 3,
-  "lastSyncDate": "2026-07-13",
-  "todayCount": 2,
+  "lastSyncDate": "2026-07-14",
+  "todayCount": 1,
   "difficultyCounts": {
     "easy": 10,
-    "medium": 3,
+    "medium": 4,
     "hard": 0,
     "basic": 0
   },
@@ -23,16 +23,17 @@
     "LeetCode_Find_All_Duplicates_in_an_Array": true,
     "LeetCode_Set_Mismatch": true,
     "LeetCode_Defanging_an_IP_Address": true,
-    "LeetCode_Shuffle_String": true
+    "LeetCode_Shuffle_String": true,
+    "LeetCode_Two_Sum_II_-_Input_Array_Is_Sorted": true
   },
   "activityHistory": {
     "2026-07-09": 2,
     "2026-07-10": 4,
     "2026-07-11": 5,
-    "2026-07-13": 2
+    "2026-07-13": 2,
+    "2026-07-14": 1
   },
   "todayProblems": [
-    "Defanging an IP Address",
-    "Shuffle String"
+    "Two Sum II - Input Array Is Sorted"
   ]
 }
