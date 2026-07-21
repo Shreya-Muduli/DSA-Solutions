@@ -1,12 +1,12 @@
 {
-  "totalSolved": 20,
-  "currentStreak": 1,
+  "totalSolved": 21,
+  "currentStreak": 2,
   "maxStreak": 5,
-  "lastSyncDate": "2026-07-20",
+  "lastSyncDate": "2026-07-21",
   "todayCount": 1,
   "difficultyCounts": {
     "easy": 12,
-    "medium": 7,
+    "medium": 8,
     "hard": 1,
     "basic": 0
   },
@@ -30,7 +30,8 @@
     "LeetCode_Sort_Colors": true,
     "LeetCode_Sum_of_GCD_of_Formed_Pairs": true,
     "LeetCode_Sorted_GCD_Pair_Queries": true,
-    "LeetCode_Shift_2D_Grid": true
+    "LeetCode_Shift_2D_Grid": true,
+    "LeetCode_Add_Two_Numbers": true
   },
   "activityHistory": {
     "2026-07-09": 2,
@@ -41,9 +42,10 @@
     "2026-07-15": 3,
     "2026-07-16": 1,
     "2026-07-17": 1,
-    "2026-07-20": 1
+    "2026-07-20": 1,
+    "2026-07-21": 1
   },
   "todayProblems": [
-    "Shift 2D Grid"
+    "Add Two Numbers"
   ]
 }
