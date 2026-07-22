@@ -21,3 +21,4 @@
 | 19 | [Sorted GCD Pair Queries](./LeetCode/Hard/Sorted%20GCD%20Pair%20Queries) | [LeetCode](https://leetcode.com/problems/sorted-gcd-pair-queries/) | Hard | 17 Jul 2026 | 10:05 pm |
 | 20 | [Shift 2D Grid](./LeetCode/Easy/Shift%202D%20Grid) | [LeetCode](https://leetcode.com/problems/shift-2d-grid/) | Easy | 20 Jul 2026 | 10:00 pm |
 | 21 | [Add Two Numbers](./LeetCode/Medium/Add%20Two%20Numbers) | [LeetCode](https://leetcode.com/problems/add-two-numbers/) | Medium | 21 Jul 2026 | 09:02 pm |
+| 22 | [Palindrome Number](./LeetCode/Easy/Palindrome%20Number) | [LeetCode](https://leetcode.com/problems/palindrome-number/) | Easy | 22 Jul 2026 | 09:28 pm |
